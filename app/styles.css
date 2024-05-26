@@ -46,6 +46,10 @@
     top: 17px;
 }
 
+.placeholder[data-feedback="true"] {
+    opacity: 0 !important;
+}
+
 .success-wrapper {
     display: flex;
     height: 100%;
